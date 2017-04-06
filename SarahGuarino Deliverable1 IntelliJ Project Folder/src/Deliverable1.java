@@ -40,7 +40,5 @@ public class Deliverable1 {
            }
 
            System.out.println("");
-
-        return;
     }
 }
